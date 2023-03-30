@@ -1,2 +1,2 @@
 
-print("python pgm")
+print("python pg")
